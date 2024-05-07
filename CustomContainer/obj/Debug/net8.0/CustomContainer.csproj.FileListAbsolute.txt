@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\CustomContainer\bin\Debug\net8.0\CustomContainer.exe
+C:\Users\48571\source\repos\CustomContainer\bin\Debug\net8.0\CustomContainer.deps.json
+C:\Users\48571\source\repos\CustomContainer\bin\Debug\net8.0\CustomContainer.runtimeconfig.json
+C:\Users\48571\source\repos\CustomContainer\bin\Debug\net8.0\CustomContainer.dll
+C:\Users\48571\source\repos\CustomContainer\bin\Debug\net8.0\CustomContainer.pdb
+C:\Users\48571\source\repos\CustomContainer\obj\Debug\net8.0\CustomContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\CustomContainer\obj\Debug\net8.0\CustomContainer.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\CustomContainer\obj\Debug\net8.0\CustomContainer.AssemblyInfo.cs
+C:\Users\48571\source\repos\CustomContainer\obj\Debug\net8.0\CustomContainer.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\CustomContainer\obj\Debug\net8.0\CustomContainer.dll
+C:\Users\48571\source\repos\CustomContainer\obj\Debug\net8.0\refint\CustomContainer.dll
+C:\Users\48571\source\repos\CustomContainer\obj\Debug\net8.0\CustomContainer.pdb
+C:\Users\48571\source\repos\CustomContainer\obj\Debug\net8.0\CustomContainer.genruntimeconfig.cache
+C:\Users\48571\source\repos\CustomContainer\obj\Debug\net8.0\ref\CustomContainer.dll
